@@ -9,7 +9,7 @@
 
 Welcome to the VERTECS Camara Control Board (CCB) project! This is an open-source hardware project designed to provide a flexible and robust payload interface for 6U nanosatellites.
 
-<img src="https://github.com/ezrafielding/vertecs-ccb/blob/main/docs/images/CCB_front.jpg" alt="CCB Front" width="500"/> <img src="https://github.com/ezrafielding/vertecs-ccb/blob/main/docs/images/CCB_back.jpg" alt="CCB Back" width="500"/>
+<img src="https://github.com/ezrafielding/vertecs-ccb/blob/main/docs/images/CCB_front.jpg" alt="CCB Front" width="400"/> <img src="https://github.com/ezrafielding/vertecs-ccb/blob/main/docs/images/CCB_back.jpg" alt="CCB Back" width="400"/>
 
 ## Introduction
 The VERTECS CCB, is an open-source payload interface board leveraging Commercial Off-The-Shelf (COTS) components with a Raspberry Pi Compute Module 4 at its core. Originally developed for the VERTECS 6U Astronomical, the board has been opened-sourced and made available for use in future nanosatellite projects.
