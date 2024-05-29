@@ -3,8 +3,6 @@
 [![License](https://img.shields.io/github/license/ezrafielding/vertecs-ccb)](https://github.com/ezrafielding/vertecs-ccb/blob/main/LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-coming.soon-blue)](#)
 [![arXiv](https://img.shields.io/badge/arXiv-coming.soon-b31b1b.svg)](#)
-[![Stars](https://img.shields.io/github/stars/ezrafielding/vertecs-ccb)](#)
-[![Forks](https://img.shields.io/github/forks/ezrafielding/vertecs-ccb)](#)
 
 <img src="https://vertecs-project.com/wp-content/uploads/2023/07/VERTECS-2048x2048.png" alt="VERTECS Logo" width="200"/>
 Welcome to the VERTECS Camara Control Board (CCB) project! This is an open-source hardware project designed to provide a flexible and robust payload interface for 6U nanosatellites.
