@@ -1,6 +1,6 @@
 # VERTECS Camera Control Board
 [![Website](https://img.shields.io/website?down_message=unavailable&up_color=blue&up_message=VERTECS%20Project&url=https%3A%2F%2Fwww.vertecs-project.com)](https://www.vertecs-project.com)
-[![GitHub License](https://img.shields.io/github/license/ezrafielding/vertecs-ccb)](https://github.com/ezrafielding/vertecs-ccb/blob/main/LICENSE)
+<img alt="GitHub License" src="https://img.shields.io/github/license/ezrafielding/VERTECS-CCB">
 [![DOI](https://img.shields.io/badge/DOI-coming.soon-blue)](#)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.00935-b31b1b.svg)](https://arxiv.org/abs/2406.00935)
 
