@@ -13,7 +13,7 @@ The VERTECS CCB, is an open-source payload interface board leveraging Commercial
 
 <img src="https://github.com/ezrafielding/vertecs-ccb/blob/main/docs/images/CCB_front.jpg" alt="CCB Front" width="350"/> <img src="https://github.com/ezrafielding/vertecs-ccb/blob/main/docs/images/CCB_back.jpg" alt="CCB Back" width="350"/>
 
-More information can be found in the conference paper for the VERTECS CCB.
+More information can be found in the [conference paper](https://arxiv.org/abs/2406.00935) for the VERTECS CCB.
 
 ## Getting Started
 ### Prerequisites
