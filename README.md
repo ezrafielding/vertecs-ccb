@@ -27,4 +27,4 @@ More information can be found in the [conference paper](https://arxiv.org/abs/24
 2. Open the KiCAD project file in the VERTECS_CCB directory.
 
 ## Citation
-Fielding, E., Schulz, V. H., Chatar, K. A. A., Sano, K., & Hanazawa, A. (2024). VERTECS: A COTS-based payload interface board to enable next generation astronomical imaging payloads.
+Ezra Fielding, Victor H. Schulz, Keenan A. A. Chatar, Kei Sano, Akitoshi Hanazawa, "VERTECS: A COTS-based payload interface board to enable next generation astronomical imaging payloads," Proc. SPIE 13101, Software and Cyberinfrastructure for Astronomy VIII, 131010J (25 July 2024); https://doi.org/10.1117/12.3019471
