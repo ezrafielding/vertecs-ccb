@@ -83,14 +83,12 @@ preferred-citation:
       email: fielding.ezra455@mail.kyutech.jp
       affiliation: Kyushu Institute of Technology
       orcid: 'https://orcid.org/0000-0002-7936-0222'
-    - given-names: Victor
-      name-particle: H.
+    - given-names: Victor Hugo
       family-names: Schulz
       email: schulz.victor602@mail.kyutech.jp
       affiliation: Kyushu Institute of Technology
     - email: chatar.keenan-alexsei240@mail.kyutech.jp
-      given-names: Keenan
-      name-particle: A.A.
+      given-names: Keenan Alexsei Aamir
       family-names: Chatar
       affiliation: Kyushu Institute of Technology
       orcid: 'https://orcid.org/0000-0002-1542-4362'
