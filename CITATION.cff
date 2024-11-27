@@ -1,0 +1,116 @@
+cff-version: 1.2.0
+title: >-
+  VERTECS: A COTS-based payload interface board to enable
+  next generation astronomical imaging payloads
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ezra
+    family-names: Fielding
+    email: fielding.ezra455@mail.kyutech.jp
+    affiliation: Kyushu Institute of Technology
+    orcid: 'https://orcid.org/0000-0002-7936-0222'
+  - given-names: Victor
+    name-particle: H.
+    family-names: Schulz
+    email: schulz.victor602@mail.kyutech.jp
+    affiliation: Kyushu Institute of Technology
+  - email: chatar.keenan-alexsei240@mail.kyutech.jp
+    given-names: Keenan
+    name-particle: A.A.
+    family-names: Chatar
+    affiliation: Kyushu Institute of Technology
+    orcid: 'https://orcid.org/0000-0002-1542-4362'
+  - given-names: Kei
+    family-names: Sano
+    email: sano.kei288@mail.kyutech.jp
+    affiliation: Kyushu Institute of Technology
+  - given-names: Akitoshi
+    family-names: Hanazawa
+    email: hanazawa@mns.kyutech.ac.jp
+    affiliation: Kyushu Institute of Technology
+identifiers:
+  - type: doi
+    value: 10.1117/12.3019471
+    description: The DOI of the work.
+repository-code: 'https://github.com/ezrafielding/vertecs-ccb'
+url: >-
+  https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13101/3019471/VERTECS--A-COTS-based-payload-interface-board-to-enable/10.1117/12.3019471.short
+abstract: >-
+  Due to advances in observation and imaging technologies,
+  modern astronomical satellites generate large volumes of
+  data. This necessitates efficient onboard data processing
+  and high-speed data downlink. Reflecting this trend is the
+  Visible Extragalactic background RadiaTion Exploration by
+  CubeSat (VERTECS) 6U Astronomical Nanosatellite. Designed
+  for the observation of Extragalactic Background Light
+  (EBL), this mission is expected to generate a substantial
+  amount of image data, particularly within the confines of
+  CubeSat capabilities. This paper introduces the VERTECS
+  Camera Control Board (CCB), an open-source payload
+  interface board leveraging Commercial Off-The-Shelf (COTS)
+  components, with a Raspberry Pi Compute Module four at its
+  core. The VERTECS CCB hardware and software have been
+  designed from the ground up to serve as the sole interface
+  between the VERTECS bus system and astronomical imaging
+  payload, while providing compute capability not usually
+  seen in nanosatellites of this class. Responsible for
+  mission data processing, it will facilitate high-speed
+  data transfer from the imaging payload via gigabit
+  Ethernet, while also providing a high-bitrate serial
+  connection to the payload x-band transmitter for mission
+  data downlink. Additional interfaces for secondary
+  payloads are provided via USB-C and standard 15-pin camera
+  connectors. The Raspberry Pi embedded within the VERTECS
+  CCB operates on a standard Linux distribution,
+  streamlining the software development process. Beyond
+  addressing the current mission's payload control and data
+  handling requirements, the CCB sets the stage for future
+  missions with heightened data demands. Furthermore, it
+  supports the adoption of machine learning and other
+  compute-intensive applications in orbit. This paper delves
+  into the development of the VERTECS CCB, offering insights
+  into the design and validation of this next-generation
+  payload interface, to ensure that it can survive the
+  rigors of space flight.
+license: CERN-OHL-P-2.0
+date-released: '2024-07-25'
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Ezra
+      family-names: Fielding
+      email: fielding.ezra455@mail.kyutech.jp
+      affiliation: Kyushu Institute of Technology
+      orcid: 'https://orcid.org/0000-0002-7936-0222'
+    - given-names: Victor
+      name-particle: H.
+      family-names: Schulz
+      email: schulz.victor602@mail.kyutech.jp
+      affiliation: Kyushu Institute of Technology
+    - email: chatar.keenan-alexsei240@mail.kyutech.jp
+      given-names: Keenan
+      name-particle: A.A.
+      family-names: Chatar
+      affiliation: Kyushu Institute of Technology
+      orcid: 'https://orcid.org/0000-0002-1542-4362'
+    - given-names: Kei
+      family-names: Sano
+      email: sano.kei288@mail.kyutech.jp
+      affiliation: Kyushu Institute of Technology
+    - given-names: Akitoshi
+      family-names: Hanazawa
+      email: hanazawa@mns.kyutech.ac.jp
+      affiliation: Kyushu Institute of Technology
+  title: >-
+    VERTECS: A COTS-based payload interface board to enable
+    next generation astronomical imaging payloads
+  doi: 10.1117/12.3019471
+  pages: 131010J
+  year: '2024'
+  conference:
+    name: Software and Cyberinfrastructure for Astronomy VIII
+    date-start: "2024-06-16"
+    date-end: "2024-06-22"
